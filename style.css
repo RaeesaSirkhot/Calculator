@@ -13,6 +13,7 @@
     width: 384px;
     height: 70px;
     background-color: crimson;
+    border-color: black;
 }
 .buttons{
     display: grid;
