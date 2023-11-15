@@ -35,8 +35,8 @@
     cursor: pointer;
 }
 #equal{
-    background-color: rgb(11, 1, 49);
-    color: white;
+    background-color: green;
+    color: black;
 
 }
 .button:hover{
