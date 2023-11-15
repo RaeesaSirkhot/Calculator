@@ -10,6 +10,9 @@
     line-height: 70px;
     padding: 16px 8px;
     font-size: 25px;
+    width: 384px;
+    height: 70px;
+    border-color: black;
 }
 .buttons{
     display: grid;
