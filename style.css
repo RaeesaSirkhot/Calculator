@@ -22,7 +22,7 @@
     border-left: 1px solid #999;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     font-weight: bold;
-    background: linear-gradient(135deg,rgba(187, 247, 152, 0.781), rgba(255, 185, 128, 0.815));
+    background: linear-gradient(135deg,rgba(206, 255, 177, 0.781), rgba(255, 197, 150, 0.815));
     backdrop-filter: blur(10px);
     
 }
